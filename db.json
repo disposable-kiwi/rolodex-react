@@ -1,0 +1,64 @@
+{
+    "employees":[
+        {
+            "id":1,
+            "name": "Peter Parker",
+            "imgUrl":"https://render.fineartamerica.com/images/rendered/small/print/images/artworkimages/square/1/spider-man-pop-tony-rubino.jpg",
+            "email":"peter.parker@dailybugle.com"
+        },
+        {
+            "id":2,
+            "name": "Monkey D. Luffy",
+            "imgUrl":"https://dk2dv4ezy246u.cloudfront.net/widgets/sSZeEaOwqDDv.jpg",
+            "email":"pirateKing@eastblue.org"
+        },
+        {
+            "id":3,
+            "name": "Reigen Arataka",
+            "imgUrl":"https://www.listchallenges.com/f/items/4e7f7daa-7f74-4fbb-965c-13fd2fe39a20.jpg",
+            "email":"numberOnePsychic@spiritsandsuch.org"
+        },
+        {
+            "id":4,
+            "name": "Sun Wukong",
+            "imgUrl":"https://render.fineartamerica.com/images/rendered/small/print/images/artworkimages/square/3/jade-dragon-sun-wukong-hung-ngo.jpg",
+            "email":"godnumberone1337@xiyouji.com"
+        },
+        {
+            "id":5,
+            "name": "Dell Conagher",
+            "imgUrl":"https://pm1.narvii.com/6609/28e8158d1bbc0e5f474eee41491ca4d30001bdfd_hq.jpg",
+            "email":"dell_conagher@mann.co"
+        },
+        {
+            "id":6,
+            "name": "Phoenix Wright",
+            "imgUrl":"http://www.ytv.co.jp/animegyakuten/character/images/face_naruhodo01.png",
+            "email":"phoenix.wright@wrightagency.org"
+        },
+        {
+            "id":7,
+            "name": "Kong Kenan",
+            "imgUrl":"https://i5.walmartimages.com/asr/da2cee0f-7826-4127-9de1-1a2a7c863479.47734ccaa519eaf46d47f9912d8c0237.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+            "email":"numberONESUPERMAN@jlc.org"
+        },
+        {
+            "id":8,
+            "name": "Son Gohan",
+            "imgUrl":"https://cdn.donmai.us/180x180/e6/2f/e62f6c7fd8fff39edde2b764bee36c5e.jpg",
+            "email":"gohan_son@hercules.edu"
+        },
+        {
+            "id":9,
+            "name": "Sataka Gintoki",
+            "imgUrl":"https://www.listchallenges.com/f/items/f0eb3e7e-8f88-4224-a094-0fd708857fbf.jpg",
+            "email":"whitedemon@yorozuya.com"
+        },
+        {
+            "id":10,
+            "name": "Qi Fang",
+            "imgUrl":"https://www.simpleimageresizer.com/_uploads/photos/6f874258/qi_fang_180x180.jpg",
+            "email":"qifang@daxue.edu"
+        }
+    ]
+}
