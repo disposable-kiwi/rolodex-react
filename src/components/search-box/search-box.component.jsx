@@ -1,22 +1,16 @@
 import {Component} from 'react';
 
-class SearchBox extends Component{
-    constructor(){
-        super();
+const SearchBox = (props)=>{
+    //we destructure our props as we have done before
+    //we destructure this from our custom props from this place in our parent component of App:
+    // <SearchBox className="search-box" placeholder='Search for Characters Here' handleClick={onSearchChange} />
+    const {handleClick, placeholder, className} = props;
 
-        this.state={};
-    }
-
-    render(){
-
-        const {handleClick, placeholder, className} = this.props;
-        
-        return (
-            <input className={className} type="search" placeholder={placeholder}
-            onChange={handleClick}
-          />
-        );
-    };
+    return (
+        <input className={className} type="search" placeholder={placeholder}
+        onChange={handleClick}
+      />
+    );
 }
 
 export default SearchBox;
