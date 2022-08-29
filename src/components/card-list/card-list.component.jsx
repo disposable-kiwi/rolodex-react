@@ -12,7 +12,7 @@ const CardList = (props)=>{
         {customEmployees.map((employee) => {
             const {name, email, id, imgUrl} = employee;
             return (
-                <Card id={id} email={email} image={imgUrl} name={name} />
+                <Card key={id} email={email} image={imgUrl} name={name} />
             );
           })}
           </div>
